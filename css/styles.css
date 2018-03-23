@@ -8,3 +8,7 @@
 #countDown1 {
   color: red;
 }
+#countDown2 {
+  color: blue;
+  font-size: 300%;
+}
