@@ -1,0 +1,10 @@
+#wrapper {
+  margin: auto;
+  height: auto;
+  width: 400px;
+  background-color: lightgray;
+  text-align: center;
+}
+#countDown1 {
+  color: red;
+}
